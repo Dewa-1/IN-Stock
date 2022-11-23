@@ -25,15 +25,15 @@ You can also add and delete according to your requirement
 ## Screenshots
 
 - LOGIN AND SINUP
+![image](https://user-images.githubusercontent.com/108230545/203623454-797c523d-b222-4a80-a84f-863b5dd2600f.jpg)
 
-![App Screenshot](https://github.com/Rishabh395/Stock-Checker/blob/main/image.jpg?raw=true)
 
-- PROFILE 
-![App Screenshot](https://github.com/Rishabh395/Stock-Checker/blob/main/image1.jpg?raw=true)
+
+
 
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-pratap-601439210/)
+[![linkedin](https://www.linkedin.com/in/dewashish-verma-a9315620b)
 
 
